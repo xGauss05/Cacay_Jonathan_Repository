@@ -295,9 +295,9 @@
         "m_Position": {
             "serializedVersion": "2",
             "x": 687.0,
-            "y": -228.5,
-            "width": 208.00001525878907,
-            "height": 302.00006103515627
+            "y": -225.00001525878907,
+            "width": 208.0,
+            "height": 302.0
         }
     },
     "m_Slots": [
@@ -479,10 +479,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 991.0000610351563,
-            "y": 0.0,
-            "width": 0.0,
-            "height": 0.0
+            "x": 935.0,
+            "y": -225.00001525878907,
+            "width": 117.0,
+            "height": 77.0
         }
     },
     "m_Slots": [
@@ -663,10 +663,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 306.00006103515627,
-            "y": 213.5,
-            "width": 0.0,
-            "height": 0.0
+            "x": 302.0,
+            "y": 76.99998474121094,
+            "width": 139.00003051757813,
+            "height": 34.00000762939453
         }
     },
     "m_Slots": [
@@ -845,10 +845,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -332.000244140625,
-            "y": -44.49998474121094,
-            "width": 0.0,
-            "height": 0.0
+            "x": -292.0,
+            "y": -161.0,
+            "width": 107.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -972,10 +972,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 51.0,
-            "y": -225.5,
-            "width": 207.99993896484376,
-            "height": 278.0000305175781
+            "x": 49.000003814697269,
+            "y": -225.0,
+            "width": 208.0,
+            "height": 278.0
         }
     },
     "m_Slots": [
@@ -1308,9 +1308,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 283.0,
-            "y": -227.50001525878907,
-            "width": 207.99993896484376,
+            "x": 280.0,
+            "y": -225.0,
+            "width": 208.00003051757813,
             "height": 278.0
         }
     },
