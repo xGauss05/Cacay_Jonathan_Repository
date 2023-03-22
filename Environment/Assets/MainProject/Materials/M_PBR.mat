@@ -79,11 +79,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _T_AmbientOclusion:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 0697ad415611efc4c815180a442a345f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _T_BaseColor:
-        m_Texture: {fileID: 2800000, guid: bb0e637fca202a24798ecade08537f24, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5bb901b0003e5d64b9e8edc8a02948b3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _T_Metallic:
@@ -91,7 +91,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _T_Normal:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: f2f81a3ec2ff9414c8190d0da2619a86, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _T_Roughness:
@@ -140,9 +140,9 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
-    - _UseAmbientOcclusionMask: 0
+    - _UseAmbientOcclusionMask: 1
     - _UseMetallicMask: 0
-    - _UseNormalTexture: 0
+    - _UseNormalTexture: 1
     - _UseRoughnessMask: 0
     - _UseTextureBaseColor: 0
     - _WorkflowMode: 1
