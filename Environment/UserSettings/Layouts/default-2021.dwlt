@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 30
+  controlID: 28
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 19
+  controlID: 29
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 20
+  controlID: 30
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -187,7 +187,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 232
+    width: 240
     height: 662
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
@@ -211,9 +211,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 232
+    x: 240
     y: 0
-    width: 1230
+    width: 1222
     height: 662
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -3069,7 +3069,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 73
-    width: 231
+    width: 239
     height: 641
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -3078,9 +3078,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 06ddffff98e5ffffe2e9ffff6ceeffff22fbffff
+      m_SelectedIDs: 42770000
+      m_LastClickedID: 30530
+      m_ExpandedIDs: 9225feffea27feffd42dfeffb837feffa63efeff5242feffa64cfeff3e54feffe05cfeffac5efeffe860fefffa59ffffd0e9ffffd2e9ffff22fbffff7876000086770000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -3125,9 +3125,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 232
+    x: 240
     y: 73
-    width: 1228
+    width: 1220
     height: 641
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -3396,9 +3396,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 68.09344, y: 20.90746, z: 55.334446}
+    m_Target: {x: 61.75206, y: 19.746132, z: 52.063747}
     speed: 2
-    m_Value: {x: 68.09344, y: 20.90746, z: 55.334446}
+    m_Value: {x: 61.75206, y: 19.746132, z: 52.063747}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -3445,13 +3445,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.013913372, y: -0.97977406, z: 0.18932155, w: -0.076140106}
+    m_Target: {x: -0.18819274, y: 0.7541841, z: -0.24327639, w: -0.58187413}
     speed: 2
-    m_Value: {x: 0.013913371, y: 0.97977406, z: -0.18932155, w: 0.0761401}
+    m_Value: {x: -0.18713751, y: 0.7538061, z: -0.24190487, w: -0.5815822}
   m_Size:
-    m_Target: 7.587184
+    m_Target: 7.5273833
     speed: 2
-    m_Value: 7.587184
+    m_Value: 7.2032375
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -3611,22 +3611,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/MainProject/3D Objects/ModularKit House
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/MainProject/3D Objects/ModularKit House
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Users\lyl_j\Documents\GitHub\Cacay_Jonathan_Repository\Environment
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 947a0000
-    m_LastClickedID: 31380
-    m_ExpandedIDs: 000000000a79000000ca9a3b
+    m_SelectedIDs: cc7a0000
+    m_LastClickedID: 31436
+    m_ExpandedIDs: 000000000a7900008a7a0000c07a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3838,6 +3838,7 @@ MonoBehaviour:
     m_LastAppliedPresetName: Default
     m_SaveData: []
   modes:
+  - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
