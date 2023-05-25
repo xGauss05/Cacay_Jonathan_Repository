@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8954536668940717392
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -7,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_Water(Class)
-  m_Shader: {fileID: -6465566751694194690, guid: 8f72e5e11dcbc554094daff4bfb51bd5,
+  m_Name: M_Cascade
+  m_Shader: {fileID: -6465566751694194690, guid: d17b2d83311ac0d4eb72e499e793cefa,
     type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -21,6 +34,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _SampleTexture2D_2269ae1bb899432d9504a477c81bc037_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 0f8034473c3beac4ba83a68761cd6b88, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -35,32 +52,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Distance: 1.13
-    - _FoamAmount: 1
-    - _FoamCutOff: 1
-    - _FoamOffset_U: 1
-    - _FoamOffset_V: 1
-    - _FoamOpacity: 1
-    - _FoamTile_U: -84.57
-    - _FoamTile_V: -1.05
-    - _OpacityDistance: 1
+    - _OffsetU: 1
+    - _OffsetV: 1
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _TileU: 5
+    - _TileV: 1
     m_Colors:
-    - _Color_A: {r: 1, g: 1, b: 1, a: 0}
-    - _Color_B: {r: 0.44705883, g: 0.33333334, b: 0.6117647, a: 0}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 0}
+    - _WaterColor: {r: 0.44705883, g: 0.33333334, b: 0.6117647, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &8343616153276134340
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 5
