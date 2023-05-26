@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: GrassGraph
+  m_Name: M_SakuraLeaves
   m_Shader: {fileID: -6465566751694194690, guid: 9109d1bf83277df47980f34e0befe3b8,
     type: 3}
   m_ValidKeywords: []

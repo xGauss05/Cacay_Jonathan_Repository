@@ -142,8 +142,8 @@ Material:
     - _T_AmbientOclusionPower: 0
     - _T_MetallicIntensity: 0
     - _T_MetallicLevels: 1
-    - _T_RoughnessIntensity: 0
-    - _T_RoughnessLevels: 0
+    - _T_RoughnessIntensity: 1
+    - _T_RoughnessLevels: 1
     - _UseAlphaMask: 0
     - _UseAmbientOcclusionMask: 0
     - _UseEmissiveMask: 0
