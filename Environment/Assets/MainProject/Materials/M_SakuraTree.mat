@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_Tree
+  m_Name: M_SakuraTree
   m_Shader: {fileID: -6465566751694194690, guid: 7925a0d1c507a2747b0b79c060a836f9,
     type: 3}
   m_ValidKeywords: []

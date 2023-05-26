@@ -158,7 +158,7 @@ Material:
     - _T_RoughnessIntensity: 1
     - _T_RoughnessLevels: 1
     - _UseAlphaMask: 0
-    - _UseAmbientOcclusionMask: 0
+    - _UseAmbientOcclusionMask: 1
     - _UseEmissiveMask: 0
     - _UseMetallicMask: 0
     - _UseNormalTexture: 1

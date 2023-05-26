@@ -109,7 +109,7 @@ Material:
     m_Floats:
     - _Alpha: 1
     - _AlphaClip: 0
-    - _AmbientOcclusion: 0
+    - _AmbientOcclusion: 1
     - _Blend: 0
     - _BumpScale: 1
     - _ClearCoatMask: 0
@@ -139,17 +139,17 @@ Material:
     - _SrcBlend: 1
     - _Surface: 0
     - _T_AmbienOclusionMultiplier: 1
-    - _T_AmbientOclusionPower: 0
+    - _T_AmbientOclusionPower: 1
     - _T_MetallicIntensity: 0
     - _T_MetallicLevels: 1
-    - _T_RoughnessIntensity: 1
-    - _T_RoughnessLevels: 1
+    - _T_RoughnessIntensity: 0.44
+    - _T_RoughnessLevels: 0
     - _UseAlphaMask: 0
-    - _UseAmbientOcclusionMask: 0
+    - _UseAmbientOcclusionMask: 1
     - _UseEmissiveMask: 0
     - _UseMetallicMask: 0
     - _UseNormalTexture: 1
-    - _UseRoughnessMask: 1
+    - _UseRoughnessMask: 0
     - _UseTextureBaseColor: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
