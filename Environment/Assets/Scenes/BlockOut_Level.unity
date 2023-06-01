@@ -17,7 +17,7 @@ RenderSettings:
   m_Fog: 1
   m_FogColor: {r: 0.7830189, g: 0.09972411, b: 0.3544071, a: 1}
   m_FogMode: 3
-  m_FogDensity: 0.02
+  m_FogDensity: 0.01
   m_LinearFogStart: -71.85
   m_LinearFogEnd: 234.8
   m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
@@ -27,13 +27,13 @@ RenderSettings:
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0, g: 0, b: 0, a: 1}
   m_SkyboxMaterial: {fileID: 2100000, guid: 42dc3b9b0dd2040fc9ef0182fdea0e50, type: 2}
-  m_HaloStrength: 0.605
+  m_HaloStrength: 0
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
   m_HaloTexture: {fileID: 0}
   m_SpotCookie: {fileID: 10001, guid: 0000000000000000e000000000000000, type: 0}
   m_DefaultReflectionMode: 0
-  m_DefaultReflectionResolution: 128
+  m_DefaultReflectionResolution: 64
   m_ReflectionBounces: 1
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
@@ -5632,7 +5632,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 91fac75d912c65640be55bac36fec8b4,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.943329
+      value: -7.65
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 91fac75d912c65640be55bac36fec8b4,
         type: 3}
@@ -5642,7 +5642,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 91fac75d912c65640be55bac36fec8b4,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5.4055862
+      value: -5.78
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 91fac75d912c65640be55bac36fec8b4,
         type: 3}

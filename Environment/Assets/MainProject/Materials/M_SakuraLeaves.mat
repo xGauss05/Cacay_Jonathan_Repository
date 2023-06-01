@@ -41,9 +41,9 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _WindAdditionalIntensity: 0.08
-    - _WindIntensity: 1.15
-    - _WindWeight: 2.16
+    - _WindAdditionalIntensity: 0.09
+    - _WindIntensity: 1.55
+    - _WindWeight: 0.5
     m_Colors: []
   m_BuildTextureStacks: []
 --- !u!114 &6060483039703386147

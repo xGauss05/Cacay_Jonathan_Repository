@@ -6,17 +6,17 @@ TerrainLayer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Hehexd
-  m_DiffuseTexture: {fileID: 2800000, guid: 1ff99e08024e7204096e5df1ef61bf4c, type: 3}
-  m_NormalMapTexture: {fileID: 2800000, guid: 0b44d1c28f66dd543a888e45f8318184, type: 3}
-  m_MaskMapTexture: {fileID: 2800000, guid: 5e2932e9994130b4c8e5a01d645cc5f3, type: 3}
+  m_Name: StoneMountain_TerrainLayer
+  m_DiffuseTexture: {fileID: 2800000, guid: e01cd18a7a71c304c9afe3be9ef606e3, type: 3}
+  m_NormalMapTexture: {fileID: 2800000, guid: acd4abf94c7789e468ad723b1788590c, type: 3}
+  m_MaskMapTexture: {fileID: 0}
   m_TileSize: {x: 2, y: 2}
   m_TileOffset: {x: 0, y: 0}
   m_Specular: {r: 0, g: 0, b: 0, a: 0}
   m_Metallic: 0
   m_Smoothness: 0
-  m_NormalScale: 1
+  m_NormalScale: 0.43
   m_DiffuseRemapMin: {x: 0, y: 0, z: 0, w: 0}
   m_DiffuseRemapMax: {x: 1, y: 1, z: 1, w: 1}
   m_MaskMapRemapMin: {x: 0, y: 0, z: 0, w: 0}
-  m_MaskMapRemapMax: {x: 0, y: 1, z: 1, w: 0.35294116}
+  m_MaskMapRemapMax: {x: 1, y: 1, z: 1, w: 1}
