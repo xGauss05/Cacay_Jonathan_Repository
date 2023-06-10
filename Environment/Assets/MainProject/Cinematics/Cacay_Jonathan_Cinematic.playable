@@ -460,7 +460,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: -2414364619469595256}
-    m_Duration: 20
+    m_Duration: 21.016666666666666
     m_TimeScale: 1
     m_ParentTrack: {fileID: -4359764854066887625}
     m_EaseInDuration: 0
@@ -1210,7 +1210,7 @@ MonoBehaviour:
     m_Start: 10
     m_ClipIn: 0
     m_Asset: {fileID: 5659494951838577101}
-    m_Duration: 10
+    m_Duration: 11.016666666666666
     m_TimeScale: 1
     m_ParentTrack: {fileID: 748308441222740725}
     m_EaseInDuration: 0
@@ -1329,7 +1329,7 @@ MonoBehaviour:
   m_Name: RecorderClip
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 1
+  take: 6
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:

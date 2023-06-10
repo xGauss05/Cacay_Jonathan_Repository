@@ -611,7 +611,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3d3622f47b2d4604590d3d8c0faf444c, type: 2}
+  - {fileID: 2100000, guid: b368ca220b83bae459b2678908bcb250, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -813,13 +813,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e27028763020344b992c96236d87d41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cam: {fileID: 756264589}
-  camBody: {fileID: 1493794981}
-  mouseSensitivity: 500
-  sprintSpeed: 5
-  movementSpeed: 1
-  mouseX: 0
-  mouseY: 0
 --- !u!114 &756264592
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2263,13 +2256,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e27028763020344b992c96236d87d41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cam: {fileID: 1415750027}
-  camBody: {fileID: 1493794981}
-  mouseSensitivity: 500
-  sprintSpeed: 5
-  movementSpeed: 1
-  mouseX: 0
-  mouseY: 0
 --- !u!114 &1415750033
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2972,13 +2958,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e27028763020344b992c96236d87d41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cam: {fileID: 1765471794}
-  camBody: {fileID: 1493794981}
-  mouseSensitivity: 500
-  sprintSpeed: 5
-  movementSpeed: 1
-  mouseX: 0
-  mouseY: 0
 --- !u!114 &1765471798
 MonoBehaviour:
   m_ObjectHideFlags: 0
